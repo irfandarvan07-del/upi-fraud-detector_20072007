@@ -20,5 +20,5 @@
 ## Quick demo (run locally, 3 minutes)
 1. Clone repo:
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/irfandarvan07-del/UPI-Transaction-Fraud-Pattern-Detection-8thmile-hackathon-
    cd upi-fraud-detector
