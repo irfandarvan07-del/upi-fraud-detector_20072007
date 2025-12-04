@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.10)
-project(upi_fraud_detector)
+project(upi_fraud_detector_20072007)
 
 set(CMAKE_CXX_STANDARD 17)
 add_executable(upi_detector
